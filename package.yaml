@@ -1,0 +1,9 @@
+# Package definition for dive
+
+package_name: dive
+github_repo: wagoodman/dive
+artifact_format: tar.gz
+description: "A tool for exploring a Docker image's layers to discover ways to shrink image size."
+license: MIT
+
+# Build for all Debian suites and all supported architectures.

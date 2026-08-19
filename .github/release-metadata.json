@@ -1,0 +1,31 @@
+{
+  "package": "dive",
+  "upstream_repo": "wagoodman/dive",
+  "version": "v0.13.1",
+  "tag": "v0.13.1",
+  "published_at": "2025-03-29T15:29:08Z",
+  "license": "MIT",
+  "asset": "dive_0.13.1_linux_amd64.tar.gz",
+  "asset_size": 4026656,
+  "sha256": "0970549eb4a306f8825a84145a2534153badb4d7dcf3febd1967c706367c3d0e",
+  "expected_sha256": "0970549eb4a306f8825a84145a2534153badb4d7dcf3febd1967c706367c3d0e",
+  "checksum_source": "dive_0.13.1_checksums.txt",
+  "checksum_verified": true,
+  "assets": {
+    "dive_0.13.1_linux_ppc64le.tar.gz": {
+      "sha256": "bb3ca17aa5f7cac99bd9e261cfe48f950aac46448ffcfe1c8cc05e71c695bc9a",
+      "size": 3685816
+    },
+    "dive_0.13.1_linux_arm64.tar.gz": {
+      "sha256": "2fcd2cf20f634ccdb41efac44048b204bfc867c115641f37a7420693ed480a18",
+      "size": 3704417
+    },
+    "dive_0.13.1_linux_amd64.tar.gz": {
+      "sha256": "0970549eb4a306f8825a84145a2534153badb4d7dcf3febd1967c706367c3d0e",
+      "size": 4026656
+    }
+  },
+  "asset_count": 3,
+  "vetted_at": "2026-08-19T15:19:22Z",
+  "vetted_by": ""
+}

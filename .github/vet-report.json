@@ -1,0 +1,46 @@
+{
+  "gate": "pass",
+  "license": {
+    "declared": "MIT",
+    "detected": [
+      "MIT"
+    ],
+    "license_files": [
+      "//tmp/tmp.YD0qCPr1wJ/x/LICENSE"
+    ],
+    "matches": true,
+    "status": "pass",
+    "detail": "declared MIT matches detected MIT"
+  },
+  "asset": {
+    "format": "tar.gz",
+    "size": 4026656,
+    "valid": true,
+    "is_html": false,
+    "binary": "dive",
+    "elf_arch": "x86-64",
+    "status": "pass",
+    "detail": "valid tar.gz archive containing 1 ELF executable(s); first: dive (x86-64); release covers: amd64 arm64 ppc64el "
+  },
+  "architectures": {
+    "covered": [
+      "amd64",
+      "arm64",
+      "ppc64el"
+    ],
+    "missing": [
+      "armel",
+      "armhf",
+      "i386",
+      "s390x",
+      "riscv64",
+      "loong64"
+    ],
+    "assets": {
+      "amd64": "dive_0.13.1_linux_amd64.tar.gz",
+      "arm64": "dive_0.13.1_linux_arm64.tar.gz",
+      "ppc64el": "dive_0.13.1_linux_ppc64le.tar.gz"
+    }
+  },
+  "vetted_at": "2026-08-19T15:19:22Z"
+}
